@@ -20,9 +20,9 @@ public:
     }
 };
 
-int main() {
-    string res = "123", k = "222";
-    res += k + "0";
-    cout << res;
-
-}
+//int main() {
+//    string res = "123", k = "222";
+//    res += k + "0";
+//    cout << res;
+//
+//}

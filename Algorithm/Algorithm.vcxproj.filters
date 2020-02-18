@@ -60,6 +60,36 @@
     <ClCompile Include="415.字符串相加.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="58.最后一个单词的长度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="66.加一.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46.全排列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="47.全排列2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="48.旋转图像.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CodeWars_countBits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49.字母异位词分组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="50. Pow(x, n).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="54.螺旋矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55.跳跃游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="headerfile.h">
