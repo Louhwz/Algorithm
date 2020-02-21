@@ -32,7 +32,7 @@ public:
     }
 };
 
-int main() {
-    Solution ss;
-    ss.spiralOrder(vector<vector<int> >{ {1, 2, 3}, { 4,5,6 }, { 7,8,9 }});
-}
+//int main() {
+//    Solution ss;
+//    ss.spiralOrder(vector<vector<int> >{ {1, 2, 3}, { 4,5,6 }, { 7,8,9 }});
+//}
