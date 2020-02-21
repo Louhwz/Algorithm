@@ -105,6 +105,12 @@
     <ClCompile Include="62.不同路径.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="63. 不同路径 II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="64.最小路径和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="headerfile.h">

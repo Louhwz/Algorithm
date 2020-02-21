@@ -31,6 +31,6 @@ public:
     }
 };
 
-int main() {
-    cout<< Solution().uniquePaths(3, 2);
-}
+//int main() {
+//    cout<< Solution().uniquePaths(3, 2);
+//}
