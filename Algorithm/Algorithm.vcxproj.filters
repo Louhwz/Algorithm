@@ -126,6 +126,15 @@
     <ClCompile Include="81. 搜索旋转排序数组 II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="70.爬楼梯.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="300.最长上升子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="71.简化路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="headerfile.h">

@@ -35,8 +35,8 @@ public:
     }
 };
 
-int main() {
-    vector<int> s{ 1,3,1,1 };
-
-    cout<<Solution().search(s, 3);
-}
+//int main() {
+//    vector<int> s{ 1,3,1,1 };
+//
+//    cout<<Solution().search(s, 3);
+//}
