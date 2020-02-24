@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="137. 只出现一次的数字 II.cpp" />
     <ClCompile Include="28.实现strStr().cpp" />
     <ClCompile Include="29.两数相除.cpp" />
     <ClCompile Include="31.下一个排列.cpp" />
@@ -177,6 +178,10 @@
     <ClCompile Include="63. 不同路径 II.cpp" />
     <ClCompile Include="64.最小路径和.cpp" />
     <ClCompile Include="66.加一.cpp" />
+    <ClCompile Include="67.二进制求和.cpp" />
+    <ClCompile Include="69. x 的平方根.cpp" />
+    <ClCompile Include="704.二分查找.cpp" />
+    <ClCompile Include="81. 搜索旋转排序数组 II.cpp" />
     <ClCompile Include="CodeWars_countBits.cpp" />
     <ClCompile Include="56.合并区间.cpp" />
   </ItemGroup>

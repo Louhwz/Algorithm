@@ -6,6 +6,7 @@ private:
     int n, m;
 public:
     int calculate(vector<vector<int> >& grid,int i, int j) {
+        
         if (i == n || j == m)  return INT_MAX;
         if (i == n - 1 && j == m - 1)  return grid[i][j];
         return grid[i][j] + min(calculate(grid, i + 1, j), calculate(grid, i, j + 1));
@@ -40,7 +41,7 @@ public:
     }
 };
 
-int main() {
-    vector<vector<int> > s{ {1, 3, 1}, { 1,5,1 }, { 4,2,1 }};
-    Solution().minPathSumRecursion(s);
-}
+//int main() {
+//    vector<vector<int> > s{ {1, 3, 1}, { 1,5,1 }, { 4,2,1 }};
+//    Solution().minPathSumRecursion(s);
+//}
