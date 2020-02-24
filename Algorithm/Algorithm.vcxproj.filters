@@ -135,6 +135,9 @@
     <ClCompile Include="71.简化路径.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="83.删除排序链表中的重复元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="headerfile.h">

@@ -185,6 +185,7 @@
     <ClCompile Include="704.二分查找.cpp" />
     <ClCompile Include="71.简化路径.cpp" />
     <ClCompile Include="81. 搜索旋转排序数组 II.cpp" />
+    <ClCompile Include="83.删除排序链表中的重复元素.cpp" />
     <ClCompile Include="CodeWars_countBits.cpp" />
     <ClCompile Include="56.合并区间.cpp" />
   </ItemGroup>
