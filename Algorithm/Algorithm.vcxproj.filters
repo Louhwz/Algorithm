@@ -138,6 +138,12 @@
     <ClCompile Include="83.删除排序链表中的重复元素.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="73.矩阵置零.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="74.搜索二维矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="headerfile.h">

@@ -184,6 +184,8 @@
     <ClCompile Include="70.爬楼梯.cpp" />
     <ClCompile Include="704.二分查找.cpp" />
     <ClCompile Include="71.简化路径.cpp" />
+    <ClCompile Include="73.矩阵置零.cpp" />
+    <ClCompile Include="74.搜索二维矩阵.cpp" />
     <ClCompile Include="81. 搜索旋转排序数组 II.cpp" />
     <ClCompile Include="83.删除排序链表中的重复元素.cpp" />
     <ClCompile Include="CodeWars_countBits.cpp" />

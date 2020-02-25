@@ -60,7 +60,3 @@ public:
     }
 };
 
-int main() {
-    cout<< Solution().simplifyPath("/../");
-    
-}
