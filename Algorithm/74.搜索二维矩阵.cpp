@@ -51,8 +51,8 @@ public:
     }
 };
 
-int main() {
-    vector<vector<int>> matrix;
-    cout << matrix[0].size();
-    //Solution().searchMatrix(matrix, 1);
-}
+//int main() {
+//    vector<vector<int>> matrix{ {} };
+//    cout << matrix[0].size();
+//    //Solution().searchMatrix(matrix, 1);
+//}

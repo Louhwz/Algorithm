@@ -144,6 +144,15 @@
     <ClCompile Include="74.搜索二维矩阵.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="75.颜色分类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="77.组合.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="78.子集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="headerfile.h">
